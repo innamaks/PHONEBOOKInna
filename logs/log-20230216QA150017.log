@@ -1,0 +1,1010 @@
+15:00:18.825 INFO  manager.ApplicationManager - All tests star in Chrome Browser
+15:00:20.020 INFO  manager.ApplicationManager - Current Url -->https://telranedu.web.app/home
+15:00:20.025 INFO  manager.ListenerTNG - onStart Nopackage
+15:00:20.046 INFO  tests.TestBase - The name of starts method is ---->addContactSuccess
+15:00:20.048 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+15:00:25.093 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+15:00:25.093 INFO  manager.ListenerWD - List suze is --> 0
+15:00:25.093 INFO  manager.ListenerWD - Before find element --> By.cssSelector: a[href='/login']
+15:00:25.125 INFO  manager.ListenerWD - After find element --> By.cssSelector: a[href='/login']
+15:00:25.171 INFO  manager.ListenerWD - Before find element --> By.name: email
+15:00:25.193 INFO  manager.ListenerWD - After find element --> By.name: email
+15:00:25.301 INFO  manager.ListenerWD - Before find element --> By.name: password
+15:00:25.316 INFO  manager.ListenerWD - After find element --> By.name: password
+15:00:25.406 INFO  manager.ListenerWD - Before find element --> By.cssSelector: [name='login']
+15:00:25.423 INFO  manager.ListenerWD - After find element --> By.cssSelector: [name='login']
+15:00:25.449 INFO  manager.ListenerTNG - OnTestStart addContactSuccess
+15:00:25.468 INFO  manager.ListenerWD - Before find element --> By.cssSelector: a[href='/add']
+15:00:26.494 INFO  manager.ListenerWD - After find element --> By.cssSelector: a[href='/add']
+15:00:27.531 INFO  manager.ListenerWD - Before find element --> By.cssSelector: input[placeholder='Name']
+15:00:27.554 INFO  manager.ListenerWD - After find element --> By.cssSelector: input[placeholder='Name']
+15:00:27.634 INFO  manager.ListenerWD - Before find element --> By.cssSelector: input[placeholder='Last Name']
+15:00:27.648 INFO  manager.ListenerWD - After find element --> By.cssSelector: input[placeholder='Last Name']
+15:00:27.715 INFO  manager.ListenerWD - Before find element --> By.cssSelector: input[placeholder='Phone']
+15:00:27.729 INFO  manager.ListenerWD - After find element --> By.cssSelector: input[placeholder='Phone']
+15:00:27.807 INFO  manager.ListenerWD - Before find element --> By.cssSelector: input[placeholder='email']
+15:00:27.823 INFO  manager.ListenerWD - After find element --> By.cssSelector: input[placeholder='email']
+15:00:27.901 INFO  manager.ListenerWD - Before find element --> By.cssSelector: input[placeholder='Address']
+15:00:27.916 INFO  manager.ListenerWD - After find element --> By.cssSelector: input[placeholder='Address']
+15:00:27.986 INFO  manager.ListenerWD - Before find element --> By.cssSelector: input[placeholder='description']
+15:00:28.000 INFO  manager.ListenerWD - After find element --> By.cssSelector: input[placeholder='description']
+15:00:28.055 INFO  manager.ListenerWD - Before find element --> By.xpath: //b[text()='Save']
+15:00:28.068 INFO  manager.ListenerWD - After find element --> By.xpath: //b[text()='Save']
+15:00:29.093 INFO  manager.ListenerWD - Before find elements --> By.cssSelector: h2
+15:00:29.515 INFO  manager.ListenerWD - After find elements --> By.cssSelector: h2
+15:00:29.515 INFO  manager.ListenerWD - List suze is --> 92
+15:00:30.459 INFO  manager.ListenerWD - Before find elements --> By.cssSelector: h3
+15:00:30.829 INFO  manager.ListenerWD - After find elements --> By.cssSelector: h3
+15:00:30.829 INFO  manager.ListenerWD - List suze is --> 92
+15:00:31.812 INFO  manager.ListenerWD - Before find elements --> By.cssSelector: .contact-item_card__2SOIM
+15:00:32.118 INFO  manager.ListenerWD - After find elements --> By.cssSelector: .contact-item_card__2SOIM
+15:00:32.118 INFO  manager.ListenerWD - List suze is --> 92
+15:00:32.159 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:32.177 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:32.232 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:32.244 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:32.305 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:32.327 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:32.380 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:32.397 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:32.450 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:32.466 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:32.511 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:32.527 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:32.561 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:32.573 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:32.609 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:32.621 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:32.655 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:32.662 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:32.693 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:32.701 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:32.730 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:32.737 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:32.768 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:32.775 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:32.806 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:32.813 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:32.847 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:32.864 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:32.895 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:32.904 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:32.935 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:32.944 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:32.979 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:32.989 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:33.027 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:33.036 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:33.063 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:33.072 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:33.101 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:33.108 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:33.136 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:33.142 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:33.172 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:33.178 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:33.207 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:33.215 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:33.245 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:33.254 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:33.286 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:33.293 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:33.324 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:33.332 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:33.361 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:33.371 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:33.404 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:33.412 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:33.449 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:33.458 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:33.494 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:33.504 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:33.538 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:33.547 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:33.581 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:33.590 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:33.621 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:33.628 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:33.661 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:33.670 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:33.702 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:33.710 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:33.743 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:33.752 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:33.785 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:33.802 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:33.836 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:33.843 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:33.872 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:33.879 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:33.909 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:33.917 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:33.945 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:33.953 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:33.983 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:33.991 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:34.022 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:34.029 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:34.058 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:34.067 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:34.096 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:34.103 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:34.133 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:34.141 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:34.172 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:34.180 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:34.212 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:34.220 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:34.250 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:34.258 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:34.287 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:34.294 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:34.324 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:34.332 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:34.360 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:34.368 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:34.398 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:34.405 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:34.438 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:34.444 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:34.475 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:34.483 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:34.511 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:34.519 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:34.550 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:34.558 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:34.591 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:34.600 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:34.638 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:34.646 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:34.681 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:34.691 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:34.729 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:34.740 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:34.774 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:34.786 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:34.823 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:34.833 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:34.873 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:34.883 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:34.925 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:34.936 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:34.972 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:34.981 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:35.021 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:35.030 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:35.067 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:35.075 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:35.106 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:35.114 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:35.145 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:35.153 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:35.184 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:35.191 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:35.221 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:35.228 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:35.258 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:35.266 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:35.295 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:35.304 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:35.337 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:35.344 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:35.375 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:35.383 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:35.412 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:35.421 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:35.452 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:35.458 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:35.490 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:35.498 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:35.528 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:35.535 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:35.566 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:35.573 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:35.602 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:35.609 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:35.643 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:35.652 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:35.684 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:35.692 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:35.726 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:35.735 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:35.769 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:35.776 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:35.810 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:35.819 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:35.850 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:35.857 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:35.887 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:35.895 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:35.926 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:35.934 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:35.965 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:35.973 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:36.004 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:36.012 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:36.020 INFO  manager.ListenerTNG - OnTestSuccess addContactSuccess
+15:00:36.021 INFO  tests.TestBase - The name of starts method is ---->addContactSuccessRequiredFields
+15:00:36.022 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+15:00:36.032 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+15:00:36.032 INFO  manager.ListenerWD - List suze is --> 1
+15:00:36.033 INFO  manager.ListenerTNG - OnTestStart addContactSuccessRequiredFields
+15:00:36.033 INFO  manager.ListenerWD - Before find element --> By.cssSelector: a[href='/add']
+15:00:36.043 INFO  manager.ListenerWD - After find element --> By.cssSelector: a[href='/add']
+15:00:37.073 INFO  manager.ListenerWD - Before find element --> By.cssSelector: input[placeholder='Name']
+15:00:37.073 INFO  manager.ListenerWD - After find element --> By.cssSelector: input[placeholder='Name']
+15:00:37.159 INFO  manager.ListenerWD - Before find element --> By.cssSelector: input[placeholder='Last Name']
+15:00:37.166 INFO  manager.ListenerWD - After find element --> By.cssSelector: input[placeholder='Last Name']
+15:00:37.231 INFO  manager.ListenerWD - Before find element --> By.cssSelector: input[placeholder='Phone']
+15:00:37.238 INFO  manager.ListenerWD - After find element --> By.cssSelector: input[placeholder='Phone']
+15:00:37.309 INFO  manager.ListenerWD - Before find element --> By.cssSelector: input[placeholder='email']
+15:00:37.315 INFO  manager.ListenerWD - After find element --> By.cssSelector: input[placeholder='email']
+15:00:37.393 INFO  manager.ListenerWD - Before find element --> By.cssSelector: input[placeholder='Address']
+15:00:37.401 INFO  manager.ListenerWD - After find element --> By.cssSelector: input[placeholder='Address']
+15:00:37.467 INFO  manager.ListenerWD - Before find element --> By.cssSelector: input[placeholder='description']
+15:00:37.473 INFO  manager.ListenerWD - After find element --> By.cssSelector: input[placeholder='description']
+15:00:37.528 INFO  manager.ListenerWD - Before find element --> By.xpath: //b[text()='Save']
+15:00:37.535 INFO  manager.ListenerWD - After find element --> By.xpath: //b[text()='Save']
+15:00:38.566 INFO  manager.ListenerWD - Before find elements --> By.cssSelector: h2
+15:00:38.786 INFO  manager.ListenerWD - After find elements --> By.cssSelector: h2
+15:00:38.786 INFO  manager.ListenerWD - List suze is --> 93
+15:00:39.860 INFO  manager.ListenerWD - Before find elements --> By.cssSelector: h3
+15:00:40.064 INFO  manager.ListenerWD - After find elements --> By.cssSelector: h3
+15:00:40.064 INFO  manager.ListenerWD - List suze is --> 93
+15:00:41.208 INFO  manager.ListenerWD - Before find elements --> By.cssSelector: .contact-item_card__2SOIM
+15:00:41.409 INFO  manager.ListenerWD - After find elements --> By.cssSelector: .contact-item_card__2SOIM
+15:00:41.409 INFO  manager.ListenerWD - List suze is --> 93
+15:00:41.456 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:41.466 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:41.515 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:41.535 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:41.596 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:41.603 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:41.636 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:41.643 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:41.683 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:41.690 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:41.728 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:41.737 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:41.769 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:41.776 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:41.809 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:41.817 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:41.848 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:41.854 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:41.888 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:41.897 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:41.929 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:41.936 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:41.968 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:41.975 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:42.009 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:42.016 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:42.049 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:42.056 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:42.088 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:42.096 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:42.131 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:42.138 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:42.170 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:42.179 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:42.213 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:42.220 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:42.253 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:42.260 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:42.295 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:42.302 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:42.334 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:42.340 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:42.374 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:42.382 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:42.415 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:42.421 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:42.455 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:42.463 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:42.496 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:42.502 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:42.536 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:42.542 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:42.576 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:42.584 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:42.617 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:42.624 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:42.659 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:42.666 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:42.699 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:42.705 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:42.738 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:42.746 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:42.779 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:42.786 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:42.819 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:42.826 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:42.860 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:42.868 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:42.901 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:42.907 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:42.940 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:42.948 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:42.984 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:42.991 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:43.027 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:43.034 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:43.068 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:43.075 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:43.112 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:43.119 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:43.158 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:43.167 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:43.202 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:43.209 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:43.243 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:43.250 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:43.284 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:43.290 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:43.322 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:43.329 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:43.363 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:43.369 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:43.403 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:43.410 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:43.445 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:43.451 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:43.483 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:43.490 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:43.524 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:43.532 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:43.564 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:43.571 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:43.607 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:43.616 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:43.655 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:43.665 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:43.701 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:43.709 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:43.750 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:43.758 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:43.798 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:43.805 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:43.841 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:43.849 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:43.884 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:43.890 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:43.925 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:43.933 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:43.968 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:43.977 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:44.012 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:44.019 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:44.053 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:44.060 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:44.093 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:44.100 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:44.133 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:44.139 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:44.176 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:44.184 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:44.218 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:44.224 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:44.259 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:44.267 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:44.299 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:44.305 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:44.340 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:44.347 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:44.381 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:44.388 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:44.425 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:44.432 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:44.468 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:44.475 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:44.514 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:44.521 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:44.557 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:44.565 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:44.600 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:44.608 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:44.643 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:44.649 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:44.684 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:44.690 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:44.728 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:44.734 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:44.768 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:44.775 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:44.810 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:44.817 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:44.851 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:44.857 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:44.892 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:44.899 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:44.934 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:44.941 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:44.977 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:44.985 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:45.020 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:45.029 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:45.064 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:45.071 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:45.109 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:45.117 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:45.153 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:45.162 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:45.200 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:45.208 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:45.243 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:45.250 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:45.283 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:45.289 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:45.327 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:45.334 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:45.369 INFO  manager.ListenerWD - Before find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:45.378 INFO  manager.ListenerWD - After find element --> By.cssSelector: .contact-item-detailed_card__50dTS
+15:00:45.387 INFO  tests.TestBase - Tests start with data : Contact(name=Marina1939, lastName=Zara, email=Zara1939@gmail.com, address=Haifa, phone=22222221939, description=null)
+15:00:45.387 INFO  manager.ListenerTNG - OnTestSuccess addContactSuccessRequiredFields
+15:00:45.388 INFO  tests.TestBase - The name of starts method is ---->addNewContactWrongAddress
+15:00:45.388 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+15:00:45.396 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+15:00:45.396 INFO  manager.ListenerWD - List suze is --> 1
+15:00:45.396 INFO  manager.ListenerTNG - OnTestStart addNewContactWrongAddress
+15:00:45.397 INFO  manager.ListenerWD - Before find element --> By.cssSelector: a[href='/add']
+15:00:45.403 INFO  manager.ListenerWD - After find element --> By.cssSelector: a[href='/add']
+15:00:46.432 INFO  manager.ListenerWD - Before find element --> By.cssSelector: input[placeholder='Name']
+15:00:46.432 INFO  manager.ListenerWD - After find element --> By.cssSelector: input[placeholder='Name']
+15:00:46.518 INFO  manager.ListenerWD - Before find element --> By.cssSelector: input[placeholder='Last Name']
+15:00:46.525 INFO  manager.ListenerWD - After find element --> By.cssSelector: input[placeholder='Last Name']
+15:00:46.590 INFO  manager.ListenerWD - Before find element --> By.cssSelector: input[placeholder='Phone']
+15:00:46.597 INFO  manager.ListenerWD - After find element --> By.cssSelector: input[placeholder='Phone']
+15:00:46.668 INFO  manager.ListenerWD - Before find element --> By.cssSelector: input[placeholder='email']
+15:00:46.675 INFO  manager.ListenerWD - After find element --> By.cssSelector: input[placeholder='email']
+15:00:46.748 INFO  manager.ListenerWD - Before find element --> By.cssSelector: input[placeholder='Address']
+15:00:46.755 INFO  manager.ListenerWD - After find element --> By.cssSelector: input[placeholder='Address']
+15:00:46.819 INFO  manager.ListenerWD - Before find element --> By.cssSelector: input[placeholder='description']
+15:00:46.826 INFO  manager.ListenerWD - After find element --> By.cssSelector: input[placeholder='description']
+15:00:46.900 INFO  manager.ListenerWD - Before find element --> By.xpath: //b[text()='Save']
+15:00:46.908 INFO  manager.ListenerWD - After find element --> By.xpath: //b[text()='Save']
+15:00:47.947 INFO  manager.ListenerWD - Before find elements --> By.cssSelector: a.active[href='/add']
+15:00:47.978 INFO  manager.ListenerWD - After find elements --> By.cssSelector: a.active[href='/add']
+15:00:47.978 INFO  manager.ListenerWD - List suze is --> 1
+15:00:47.978 INFO  manager.ListenerTNG - OnTestSuccess addNewContactWrongAddress
+15:00:47.978 INFO  tests.TestBase - The name of starts method is ---->addNewContactWrongEmail
+15:00:47.978 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+15:00:47.984 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+15:00:47.984 INFO  manager.ListenerWD - List suze is --> 1
+15:00:47.984 INFO  manager.ListenerTNG - OnTestStart addNewContactWrongEmail
+15:00:47.984 INFO  manager.ListenerWD - Before find element --> By.cssSelector: a[href='/add']
+15:00:47.994 INFO  manager.ListenerWD - After find element --> By.cssSelector: a[href='/add']
+15:00:49.024 INFO  manager.ListenerWD - Before find element --> By.cssSelector: input[placeholder='Name']
+15:00:49.056 INFO  manager.ListenerWD - After find element --> By.cssSelector: input[placeholder='Name']
+15:00:49.132 INFO  manager.ListenerWD - Before find element --> By.cssSelector: input[placeholder='Last Name']
+15:00:49.140 INFO  manager.ListenerWD - After find element --> By.cssSelector: input[placeholder='Last Name']
+15:00:49.195 INFO  manager.ListenerWD - Before find element --> By.cssSelector: input[placeholder='Phone']
+15:00:49.201 INFO  manager.ListenerWD - After find element --> By.cssSelector: input[placeholder='Phone']
+15:00:49.258 INFO  manager.ListenerWD - Before find element --> By.cssSelector: input[placeholder='email']
+15:00:49.265 INFO  manager.ListenerWD - After find element --> By.cssSelector: input[placeholder='email']
+15:00:49.327 INFO  manager.ListenerWD - Before find element --> By.cssSelector: input[placeholder='Address']
+15:00:49.334 INFO  manager.ListenerWD - After find element --> By.cssSelector: input[placeholder='Address']
+15:00:49.386 INFO  manager.ListenerWD - Before find element --> By.cssSelector: input[placeholder='description']
+15:00:49.393 INFO  manager.ListenerWD - After find element --> By.cssSelector: input[placeholder='description']
+15:00:49.445 INFO  manager.ListenerWD - Before find element --> By.xpath: //b[text()='Save']
+15:00:49.451 INFO  manager.ListenerWD - After find element --> By.xpath: //b[text()='Save']
+15:00:50.503 INFO  manager.ListenerTNG - OnTestSuccess addNewContactWrongEmail
+15:00:50.504 INFO  tests.TestBase - The name of starts method is ---->addNewContactWrongLastName
+15:00:50.505 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+15:00:50.516 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+15:00:50.516 INFO  manager.ListenerWD - List suze is --> 1
+15:00:50.517 INFO  manager.ListenerTNG - OnTestStart addNewContactWrongLastName
+15:00:50.517 INFO  manager.ListenerWD - Before find element --> By.cssSelector: a[href='/add']
+15:00:50.526 INFO  manager.ListenerWD - After find element --> By.cssSelector: a[href='/add']
+15:00:51.547 INFO  manager.ListenerWD - Before find element --> By.cssSelector: input[placeholder='Name']
+15:00:51.569 INFO  manager.ListenerWD - After find element --> By.cssSelector: input[placeholder='Name']
+15:00:51.623 INFO  manager.ListenerWD - Before find element --> By.cssSelector: input[placeholder='Last Name']
+15:00:51.623 INFO  manager.ListenerWD - After find element --> By.cssSelector: input[placeholder='Last Name']
+15:00:51.680 INFO  manager.ListenerWD - Before find element --> By.cssSelector: input[placeholder='Phone']
+15:00:51.686 INFO  manager.ListenerWD - After find element --> By.cssSelector: input[placeholder='Phone']
+15:00:51.746 INFO  manager.ListenerWD - Before find element --> By.cssSelector: input[placeholder='email']
+15:00:51.754 INFO  manager.ListenerWD - After find element --> By.cssSelector: input[placeholder='email']
+15:00:51.814 INFO  manager.ListenerWD - Before find element --> By.cssSelector: input[placeholder='Address']
+15:00:51.821 INFO  manager.ListenerWD - After find element --> By.cssSelector: input[placeholder='Address']
+15:00:51.877 INFO  manager.ListenerWD - Before find element --> By.cssSelector: input[placeholder='description']
+15:00:51.883 INFO  manager.ListenerWD - After find element --> By.cssSelector: input[placeholder='description']
+15:00:51.944 INFO  manager.ListenerWD - Before find element --> By.xpath: //b[text()='Save']
+15:00:51.951 INFO  manager.ListenerWD - After find element --> By.xpath: //b[text()='Save']
+15:00:52.979 INFO  manager.ListenerWD - Before find elements --> By.cssSelector: a.active[href='/add']
+15:00:52.995 INFO  manager.ListenerWD - After find elements --> By.cssSelector: a.active[href='/add']
+15:00:52.995 INFO  manager.ListenerWD - List suze is --> 1
+15:00:52.995 INFO  manager.ListenerTNG - OnTestSuccess addNewContactWrongLastName
+15:00:52.995 INFO  tests.TestBase - The name of starts method is ---->addNewContactWrongName
+15:00:52.995 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+15:00:53.010 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+15:00:53.010 INFO  manager.ListenerWD - List suze is --> 1
+15:00:53.010 INFO  manager.ListenerTNG - OnTestStart addNewContactWrongName
+15:00:53.010 INFO  manager.ListenerWD - Before find element --> By.cssSelector: a[href='/add']
+15:00:53.010 INFO  manager.ListenerWD - After find element --> By.cssSelector: a[href='/add']
+15:00:54.045 INFO  manager.ListenerWD - Before find element --> By.cssSelector: input[placeholder='Name']
+15:00:54.060 INFO  manager.ListenerWD - After find element --> By.cssSelector: input[placeholder='Name']
+15:00:54.120 INFO  manager.ListenerWD - Before find element --> By.cssSelector: input[placeholder='Last Name']
+15:00:54.127 INFO  manager.ListenerWD - After find element --> By.cssSelector: input[placeholder='Last Name']
+15:00:54.177 INFO  manager.ListenerWD - Before find element --> By.cssSelector: input[placeholder='Phone']
+15:00:54.183 INFO  manager.ListenerWD - After find element --> By.cssSelector: input[placeholder='Phone']
+15:00:54.245 INFO  manager.ListenerWD - Before find element --> By.cssSelector: input[placeholder='email']
+15:00:54.252 INFO  manager.ListenerWD - After find element --> By.cssSelector: input[placeholder='email']
+15:00:54.312 INFO  manager.ListenerWD - Before find element --> By.cssSelector: input[placeholder='Address']
+15:00:54.319 INFO  manager.ListenerWD - After find element --> By.cssSelector: input[placeholder='Address']
+15:00:54.375 INFO  manager.ListenerWD - Before find element --> By.cssSelector: input[placeholder='description']
+15:00:54.381 INFO  manager.ListenerWD - After find element --> By.cssSelector: input[placeholder='description']
+15:00:54.440 INFO  manager.ListenerWD - Before find element --> By.xpath: //b[text()='Save']
+15:00:54.447 INFO  manager.ListenerWD - After find element --> By.xpath: //b[text()='Save']
+15:00:55.468 INFO  manager.ListenerWD - Before find elements --> By.cssSelector: a.active[href='/add']
+15:00:55.468 INFO  manager.ListenerWD - After find elements --> By.cssSelector: a.active[href='/add']
+15:00:55.468 INFO  manager.ListenerWD - List suze is --> 1
+15:00:55.468 INFO  manager.ListenerTNG - OnTestSuccess addNewContactWrongName
+15:00:55.468 INFO  tests.TestBase - The name of starts method is ---->addNewContactWrongName1
+15:00:55.468 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+15:00:55.484 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+15:00:55.484 INFO  manager.ListenerWD - List suze is --> 1
+15:00:55.484 INFO  manager.ListenerTNG - OnTestStart addNewContactWrongName1
+15:00:55.484 INFO  manager.ListenerWD - Before find element --> By.cssSelector: a[href='/add']
+15:00:55.484 INFO  manager.ListenerWD - After find element --> By.cssSelector: a[href='/add']
+15:00:56.525 INFO  manager.ListenerWD - Before find element --> By.cssSelector: input[placeholder='Name']
+15:00:56.541 INFO  manager.ListenerWD - After find element --> By.cssSelector: input[placeholder='Name']
+15:00:56.598 INFO  manager.ListenerWD - Before find element --> By.cssSelector: input[placeholder='Last Name']
+15:00:56.605 INFO  manager.ListenerWD - After find element --> By.cssSelector: input[placeholder='Last Name']
+15:00:56.655 INFO  manager.ListenerWD - Before find element --> By.cssSelector: input[placeholder='Phone']
+15:00:56.661 INFO  manager.ListenerWD - After find element --> By.cssSelector: input[placeholder='Phone']
+15:00:56.716 INFO  manager.ListenerWD - Before find element --> By.cssSelector: input[placeholder='email']
+15:00:56.723 INFO  manager.ListenerWD - After find element --> By.cssSelector: input[placeholder='email']
+15:00:56.781 INFO  manager.ListenerWD - Before find element --> By.cssSelector: input[placeholder='Address']
+15:00:56.788 INFO  manager.ListenerWD - After find element --> By.cssSelector: input[placeholder='Address']
+15:00:56.841 INFO  manager.ListenerWD - Before find element --> By.cssSelector: input[placeholder='description']
+15:00:56.847 INFO  manager.ListenerWD - After find element --> By.cssSelector: input[placeholder='description']
+15:00:56.905 INFO  manager.ListenerWD - Before find element --> By.xpath: //b[text()='Save']
+15:00:56.912 INFO  manager.ListenerWD - After find element --> By.xpath: //b[text()='Save']
+15:00:57.935 INFO  manager.ListenerWD - Before find elements --> By.cssSelector: a.active[href='/add']
+15:00:57.951 INFO  manager.ListenerWD - After find elements --> By.cssSelector: a.active[href='/add']
+15:00:57.951 INFO  manager.ListenerWD - List suze is --> 1
+15:00:57.951 INFO  manager.ListenerTNG - OnTestSuccess addNewContactWrongName1
+15:00:57.951 INFO  tests.TestBase - The name of starts method is ---->addNewContactWrongPhone
+15:00:57.951 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+15:00:57.966 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+15:00:57.966 INFO  manager.ListenerWD - List suze is --> 1
+15:00:57.966 INFO  manager.ListenerTNG - OnTestStart addNewContactWrongPhone
+15:00:57.966 INFO  manager.ListenerWD - Before find element --> By.cssSelector: a[href='/add']
+15:00:57.982 INFO  manager.ListenerWD - After find element --> By.cssSelector: a[href='/add']
+15:00:59.013 INFO  manager.ListenerWD - Before find element --> By.cssSelector: input[placeholder='Name']
+15:00:59.013 INFO  manager.ListenerWD - After find element --> By.cssSelector: input[placeholder='Name']
+15:00:59.076 INFO  manager.ListenerWD - Before find element --> By.cssSelector: input[placeholder='Last Name']
+15:00:59.082 INFO  manager.ListenerWD - After find element --> By.cssSelector: input[placeholder='Last Name']
+15:00:59.135 INFO  manager.ListenerWD - Before find element --> By.cssSelector: input[placeholder='Phone']
+15:00:59.141 INFO  manager.ListenerWD - After find element --> By.cssSelector: input[placeholder='Phone']
+15:00:59.197 INFO  manager.ListenerWD - Before find element --> By.cssSelector: input[placeholder='email']
+15:00:59.205 INFO  manager.ListenerWD - After find element --> By.cssSelector: input[placeholder='email']
+15:00:59.270 INFO  manager.ListenerWD - Before find element --> By.cssSelector: input[placeholder='Address']
+15:00:59.277 INFO  manager.ListenerWD - After find element --> By.cssSelector: input[placeholder='Address']
+15:00:59.332 INFO  manager.ListenerWD - Before find element --> By.cssSelector: input[placeholder='description']
+15:00:59.339 INFO  manager.ListenerWD - After find element --> By.cssSelector: input[placeholder='description']
+15:00:59.392 INFO  manager.ListenerWD - Before find element --> By.xpath: //b[text()='Save']
+15:00:59.398 INFO  manager.ListenerWD - After find element --> By.xpath: //b[text()='Save']
+15:01:00.422 INFO  manager.ListenerTNG - OnTestSuccess addNewContactWrongPhone
+15:01:00.426 INFO  tests.TestBase - The name of starts method is ---->registrationSuccess
+15:01:00.426 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+15:01:00.460 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+15:01:00.460 INFO  manager.ListenerWD - List suze is --> 1
+15:01:00.460 INFO  manager.ListenerWD - Before find element --> By.xpath: //button[text()='Sign Out']
+15:01:00.474 INFO  manager.ListenerWD - After find element --> By.xpath: //button[text()='Sign Out']
+15:01:00.504 INFO  manager.ListenerTNG - OnTestStart registrationSuccess
+15:01:00.504 INFO  manager.ListenerWD - Before find element --> By.cssSelector: a[href='/login']
+15:01:00.514 INFO  manager.ListenerWD - After find element --> By.cssSelector: a[href='/login']
+15:01:00.546 INFO  manager.ListenerWD - Before find element --> By.name: email
+15:01:00.556 INFO  manager.ListenerWD - After find element --> By.name: email
+15:01:00.638 INFO  manager.ListenerWD - Before find element --> By.name: password
+15:01:00.647 INFO  manager.ListenerWD - After find element --> By.name: password
+15:01:00.726 INFO  manager.ListenerWD - Before find element --> By.cssSelector: [name='registration']
+15:01:00.736 INFO  manager.ListenerWD - After find element --> By.cssSelector: [name='registration']
+15:01:00.762 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+15:01:01.238 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+15:01:01.238 INFO  manager.ListenerWD - List suze is --> 1
+15:01:01.238 INFO  manager.ListenerTNG - OnTestSuccess registrationSuccess
+15:01:01.239 INFO  tests.TestBase - The name of starts method is ---->registrationUserAlreadyExists
+15:01:01.240 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+15:01:01.247 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+15:01:01.247 INFO  manager.ListenerWD - List suze is --> 1
+15:01:01.247 INFO  manager.ListenerWD - Before find element --> By.xpath: //button[text()='Sign Out']
+15:01:01.254 INFO  manager.ListenerWD - After find element --> By.xpath: //button[text()='Sign Out']
+15:01:01.285 INFO  manager.ListenerTNG - OnTestStart registrationUserAlreadyExists
+15:01:01.285 INFO  manager.ListenerWD - Before find element --> By.cssSelector: a[href='/login']
+15:01:01.293 INFO  manager.ListenerWD - After find element --> By.cssSelector: a[href='/login']
+15:01:01.320 INFO  manager.ListenerWD - Before find element --> By.name: email
+15:01:01.327 INFO  manager.ListenerWD - After find element --> By.name: email
+15:01:01.409 INFO  manager.ListenerWD - Before find element --> By.name: password
+15:01:01.416 INFO  manager.ListenerWD - After find element --> By.name: password
+15:01:01.496 INFO  manager.ListenerWD - Before find element --> By.cssSelector: [name='registration']
+15:01:01.503 INFO  manager.ListenerWD - After find element --> By.cssSelector: [name='registration']
+15:01:01.530 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+15:01:01.721 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+15:01:01.721 INFO  manager.ListenerWD - List suze is --> 0
+15:01:01.728 INFO  manager.ListenerTNG - OnTestSuccess registrationUserAlreadyExists
+15:01:01.728 INFO  tests.TestBase - The name of starts method is ---->registrationWrongEmail
+15:01:01.729 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+15:01:06.756 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+15:01:06.756 INFO  manager.ListenerWD - List suze is --> 0
+15:01:06.756 INFO  manager.ListenerTNG - OnTestStart registrationWrongEmail
+15:01:06.771 INFO  manager.ListenerWD - Before find element --> By.cssSelector: a[href='/login']
+15:01:06.771 INFO  manager.ListenerWD - After find element --> By.cssSelector: a[href='/login']
+15:01:06.801 INFO  manager.ListenerWD - Before find element --> By.name: email
+15:01:06.809 INFO  manager.ListenerWD - After find element --> By.name: email
+15:01:06.886 INFO  manager.ListenerWD - Before find element --> By.name: password
+15:01:06.892 INFO  manager.ListenerWD - After find element --> By.name: password
+15:01:06.967 INFO  manager.ListenerWD - Before find element --> By.cssSelector: [name='registration']
+15:01:06.974 INFO  manager.ListenerWD - After find element --> By.cssSelector: [name='registration']
+15:01:07.001 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+15:01:07.207 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+15:01:07.207 INFO  manager.ListenerWD - List suze is --> 0
+15:01:07.221 INFO  manager.ListenerTNG - OnTestSuccess registrationWrongEmail
+15:01:07.222 INFO  tests.TestBase - The name of starts method is ---->registrationWrongPassword
+15:01:07.222 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+15:01:12.253 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+15:01:12.253 INFO  manager.ListenerWD - List suze is --> 0
+15:01:12.253 INFO  manager.ListenerTNG - OnTestStart registrationWrongPassword
+15:01:12.269 INFO  manager.ListenerWD - Before find element --> By.cssSelector: a[href='/login']
+15:01:12.269 INFO  manager.ListenerWD - After find element --> By.cssSelector: a[href='/login']
+15:01:12.298 INFO  manager.ListenerWD - Before find element --> By.name: email
+15:01:12.306 INFO  manager.ListenerWD - After find element --> By.name: email
+15:01:12.386 INFO  manager.ListenerWD - Before find element --> By.name: password
+15:01:12.393 INFO  manager.ListenerWD - After find element --> By.name: password
+15:01:12.464 INFO  manager.ListenerWD - Before find element --> By.cssSelector: [name='registration']
+15:01:12.470 INFO  manager.ListenerWD - After find element --> By.cssSelector: [name='registration']
+15:01:12.495 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+15:01:12.693 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+15:01:12.693 INFO  manager.ListenerWD - List suze is --> 0
+15:01:12.712 INFO  manager.ListenerTNG - OnTestSuccess registrationWrongPassword
+15:01:12.717 INFO  tests.TestBase - The name of starts method is ---->loginSuccess
+15:01:12.718 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+15:01:17.743 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+15:01:17.743 INFO  manager.ListenerWD - List suze is --> 0
+15:01:17.743 INFO  manager.ListenerTNG - OnTestStart loginSuccess
+15:01:17.743 INFO  tests.TestBase - Login with valid data : email: innayrchenko77@gmail.com & password: AlisMaksim2!
+15:01:17.743 INFO  manager.ListenerWD - Before find element --> By.cssSelector: a[href='/login']
+15:01:17.758 INFO  manager.ListenerWD - After find element --> By.cssSelector: a[href='/login']
+15:01:17.781 INFO  manager.ListenerWD - Before find element --> By.name: email
+15:01:17.789 INFO  manager.ListenerWD - After find element --> By.name: email
+15:01:17.874 INFO  manager.ListenerWD - Before find element --> By.name: password
+15:01:17.881 INFO  manager.ListenerWD - After find element --> By.name: password
+15:01:17.951 INFO  manager.ListenerWD - Before find element --> By.cssSelector: [name='login']
+15:01:17.961 INFO  manager.ListenerWD - After find element --> By.cssSelector: [name='login']
+15:01:17.986 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+15:01:18.279 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+15:01:18.279 INFO  manager.ListenerWD - List suze is --> 1
+15:01:18.279 INFO  tests.TestBase - Tests success
+15:01:18.279 INFO  manager.ListenerTNG - OnTestSuccess loginSuccess
+15:01:18.280 INFO  tests.TestBase - The name of starts method is ---->loginSuccess
+15:01:18.280 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+15:01:18.293 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+15:01:18.293 INFO  manager.ListenerWD - List suze is --> 1
+15:01:18.293 INFO  manager.ListenerWD - Before find element --> By.xpath: //button[text()='Sign Out']
+15:01:18.308 INFO  manager.ListenerWD - After find element --> By.xpath: //button[text()='Sign Out']
+15:01:18.338 INFO  tests.TestBase - I need logout
+15:01:18.338 INFO  manager.ListenerTNG - OnTestStart loginSuccess
+15:01:18.338 INFO  tests.TestBase - Login with valid data : email: innayrchenko77@gmail.com & password: AlisMaksim2!
+15:01:18.338 INFO  manager.ListenerWD - Before find element --> By.cssSelector: a[href='/login']
+15:01:18.347 INFO  manager.ListenerWD - After find element --> By.cssSelector: a[href='/login']
+15:01:18.370 INFO  manager.ListenerWD - Before find element --> By.name: email
+15:01:18.377 INFO  manager.ListenerWD - After find element --> By.name: email
+15:01:18.460 INFO  manager.ListenerWD - Before find element --> By.name: password
+15:01:18.466 INFO  manager.ListenerWD - After find element --> By.name: password
+15:01:18.544 INFO  manager.ListenerWD - Before find element --> By.cssSelector: [name='login']
+15:01:18.551 INFO  manager.ListenerWD - After find element --> By.cssSelector: [name='login']
+15:01:18.576 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+15:01:18.906 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+15:01:18.906 INFO  manager.ListenerWD - List suze is --> 1
+15:01:18.906 INFO  tests.TestBase - Tests success
+15:01:18.906 INFO  manager.ListenerTNG - OnTestSuccess loginSuccess
+15:01:18.907 INFO  tests.TestBase - The name of starts method is ---->loginSuccess
+15:01:18.907 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+15:01:18.915 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+15:01:18.915 INFO  manager.ListenerWD - List suze is --> 1
+15:01:18.915 INFO  manager.ListenerWD - Before find element --> By.xpath: //button[text()='Sign Out']
+15:01:18.922 INFO  manager.ListenerWD - After find element --> By.xpath: //button[text()='Sign Out']
+15:01:18.949 INFO  tests.TestBase - I need logout
+15:01:18.949 INFO  manager.ListenerTNG - OnTestStart loginSuccess
+15:01:18.949 INFO  tests.TestBase - Login with valid data : email: innayrchenko77@gmail.com & password: AlisMaksim2!
+15:01:18.949 INFO  manager.ListenerWD - Before find element --> By.cssSelector: a[href='/login']
+15:01:18.958 INFO  manager.ListenerWD - After find element --> By.cssSelector: a[href='/login']
+15:01:18.988 INFO  manager.ListenerWD - Before find element --> By.name: email
+15:01:18.996 INFO  manager.ListenerWD - After find element --> By.name: email
+15:01:19.091 INFO  manager.ListenerWD - Before find element --> By.name: password
+15:01:19.099 INFO  manager.ListenerWD - After find element --> By.name: password
+15:01:19.185 INFO  manager.ListenerWD - Before find element --> By.cssSelector: [name='login']
+15:01:19.192 INFO  manager.ListenerWD - After find element --> By.cssSelector: [name='login']
+15:01:19.216 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+15:01:19.486 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+15:01:19.486 INFO  manager.ListenerWD - List suze is --> 1
+15:01:19.486 INFO  tests.TestBase - Tests success
+15:01:19.486 INFO  manager.ListenerTNG - OnTestSuccess loginSuccess
+15:01:19.489 INFO  tests.TestBase - The name of starts method is ---->loginSuccess2
+15:01:19.489 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+15:01:19.497 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+15:01:19.497 INFO  manager.ListenerWD - List suze is --> 1
+15:01:19.497 INFO  manager.ListenerWD - Before find element --> By.xpath: //button[text()='Sign Out']
+15:01:19.505 INFO  manager.ListenerWD - After find element --> By.xpath: //button[text()='Sign Out']
+15:01:19.531 INFO  tests.TestBase - I need logout
+15:01:19.531 INFO  manager.ListenerTNG - OnTestStart loginSuccess2
+15:01:19.532 INFO  tests.TestBase - Login with valid data : email: innayrchenko77@gmail.com & password: AlisMaksim2!
+15:01:19.532 INFO  manager.ListenerWD - Before find element --> By.cssSelector: a[href='/login']
+15:01:19.540 INFO  manager.ListenerWD - After find element --> By.cssSelector: a[href='/login']
+15:01:19.573 INFO  manager.ListenerWD - Before find element --> By.name: email
+15:01:19.580 INFO  manager.ListenerWD - After find element --> By.name: email
+15:01:19.666 INFO  manager.ListenerWD - Before find element --> By.name: password
+15:01:19.675 INFO  manager.ListenerWD - After find element --> By.name: password
+15:01:19.759 INFO  manager.ListenerWD - Before find element --> By.cssSelector: [name='login']
+15:01:19.765 INFO  manager.ListenerWD - After find element --> By.cssSelector: [name='login']
+15:01:19.788 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+15:01:20.105 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+15:01:20.105 INFO  manager.ListenerWD - List suze is --> 1
+15:01:20.105 INFO  tests.TestBase - Tests success
+15:01:20.106 INFO  manager.ListenerTNG - OnTestSuccess loginSuccess2
+15:01:20.107 INFO  tests.TestBase - The name of starts method is ---->loginSuccess2
+15:01:20.107 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+15:01:20.121 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+15:01:20.121 INFO  manager.ListenerWD - List suze is --> 1
+15:01:20.121 INFO  manager.ListenerWD - Before find element --> By.xpath: //button[text()='Sign Out']
+15:01:20.121 INFO  manager.ListenerWD - After find element --> By.xpath: //button[text()='Sign Out']
+15:01:20.159 INFO  tests.TestBase - I need logout
+15:01:20.159 INFO  manager.ListenerTNG - OnTestStart loginSuccess2
+15:01:20.159 INFO  tests.TestBase - Login with valid data : email: innayrchenko77@gmail.com & password: AlisMaksim2!
+15:01:20.159 INFO  manager.ListenerWD - Before find element --> By.cssSelector: a[href='/login']
+15:01:20.166 INFO  manager.ListenerWD - After find element --> By.cssSelector: a[href='/login']
+15:01:20.188 INFO  manager.ListenerWD - Before find element --> By.name: email
+15:01:20.195 INFO  manager.ListenerWD - After find element --> By.name: email
+15:01:20.273 INFO  manager.ListenerWD - Before find element --> By.name: password
+15:01:20.280 INFO  manager.ListenerWD - After find element --> By.name: password
+15:01:20.352 INFO  manager.ListenerWD - Before find element --> By.cssSelector: [name='login']
+15:01:20.359 INFO  manager.ListenerWD - After find element --> By.cssSelector: [name='login']
+15:01:20.379 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+15:01:20.677 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+15:01:20.677 INFO  manager.ListenerWD - List suze is --> 1
+15:01:20.677 INFO  tests.TestBase - Tests success
+15:01:20.677 INFO  manager.ListenerTNG - OnTestSuccess loginSuccess2
+15:01:20.678 INFO  tests.TestBase - The name of starts method is ---->loginSuccess2
+15:01:20.678 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+15:01:20.689 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+15:01:20.689 INFO  manager.ListenerWD - List suze is --> 1
+15:01:20.689 INFO  manager.ListenerWD - Before find element --> By.xpath: //button[text()='Sign Out']
+15:01:20.697 INFO  manager.ListenerWD - After find element --> By.xpath: //button[text()='Sign Out']
+15:01:20.723 INFO  tests.TestBase - I need logout
+15:01:20.723 INFO  manager.ListenerTNG - OnTestStart loginSuccess2
+15:01:20.724 INFO  tests.TestBase - Login with valid data : email: innayrchenko77@gmail.com & password: AlisMaksim2!
+15:01:20.724 INFO  manager.ListenerWD - Before find element --> By.cssSelector: a[href='/login']
+15:01:20.731 INFO  manager.ListenerWD - After find element --> By.cssSelector: a[href='/login']
+15:01:20.755 INFO  manager.ListenerWD - Before find element --> By.name: email
+15:01:20.762 INFO  manager.ListenerWD - After find element --> By.name: email
+15:01:20.845 INFO  manager.ListenerWD - Before find element --> By.name: password
+15:01:20.856 INFO  manager.ListenerWD - After find element --> By.name: password
+15:01:20.929 INFO  manager.ListenerWD - Before find element --> By.cssSelector: [name='login']
+15:01:20.935 INFO  manager.ListenerWD - After find element --> By.cssSelector: [name='login']
+15:01:20.957 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+15:01:21.287 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+15:01:21.287 INFO  manager.ListenerWD - List suze is --> 1
+15:01:21.287 INFO  tests.TestBase - Tests success
+15:01:21.287 INFO  manager.ListenerTNG - OnTestSuccess loginSuccess2
+15:01:21.287 INFO  tests.TestBase - The name of starts method is ---->loginSuccessModel
+15:01:21.303 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+15:01:21.303 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+15:01:21.303 INFO  manager.ListenerWD - List suze is --> 1
+15:01:21.303 INFO  manager.ListenerWD - Before find element --> By.xpath: //button[text()='Sign Out']
+15:01:21.318 INFO  manager.ListenerWD - After find element --> By.xpath: //button[text()='Sign Out']
+15:01:21.349 INFO  tests.TestBase - I need logout
+15:01:21.349 INFO  manager.ListenerTNG - OnTestStart loginSuccessModel
+15:01:21.355 INFO  tests.TestBase - Tests start with user model   User(email=innayrchenko77@gmail.com, password=AlisMaksim2!)
+15:01:21.355 INFO  manager.ListenerWD - Before find element --> By.cssSelector: a[href='/login']
+15:01:21.362 INFO  manager.ListenerWD - After find element --> By.cssSelector: a[href='/login']
+15:01:21.385 INFO  manager.ListenerWD - Before find element --> By.name: email
+15:01:21.392 INFO  manager.ListenerWD - After find element --> By.name: email
+15:01:21.468 INFO  manager.ListenerWD - Before find element --> By.name: password
+15:01:21.475 INFO  manager.ListenerWD - After find element --> By.name: password
+15:01:21.546 INFO  manager.ListenerWD - Before find element --> By.cssSelector: [name='login']
+15:01:21.553 INFO  manager.ListenerWD - After find element --> By.cssSelector: [name='login']
+15:01:21.576 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+15:01:21.864 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+15:01:21.864 INFO  manager.ListenerWD - List suze is --> 1
+15:01:21.864 INFO  manager.ListenerTNG - OnTestSuccess loginSuccessModel
+15:01:21.865 INFO  tests.TestBase - The name of starts method is ---->loginSuccessModel
+15:01:21.865 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+15:01:21.874 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+15:01:21.874 INFO  manager.ListenerWD - List suze is --> 1
+15:01:21.874 INFO  manager.ListenerWD - Before find element --> By.xpath: //button[text()='Sign Out']
+15:01:21.882 INFO  manager.ListenerWD - After find element --> By.xpath: //button[text()='Sign Out']
+15:01:21.909 INFO  tests.TestBase - I need logout
+15:01:21.909 INFO  manager.ListenerTNG - OnTestStart loginSuccessModel
+15:01:21.909 INFO  tests.TestBase - Tests start with user model   User(email=innayrchenko77@gmail.com, password=AlisMaksim2!)
+15:01:21.909 INFO  manager.ListenerWD - Before find element --> By.cssSelector: a[href='/login']
+15:01:21.917 INFO  manager.ListenerWD - After find element --> By.cssSelector: a[href='/login']
+15:01:21.942 INFO  manager.ListenerWD - Before find element --> By.name: email
+15:01:21.948 INFO  manager.ListenerWD - After find element --> By.name: email
+15:01:22.025 INFO  manager.ListenerWD - Before find element --> By.name: password
+15:01:22.032 INFO  manager.ListenerWD - After find element --> By.name: password
+15:01:22.107 INFO  manager.ListenerWD - Before find element --> By.cssSelector: [name='login']
+15:01:22.114 INFO  manager.ListenerWD - After find element --> By.cssSelector: [name='login']
+15:01:22.140 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+15:01:22.429 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+15:01:22.429 INFO  manager.ListenerWD - List suze is --> 1
+15:01:22.429 INFO  manager.ListenerTNG - OnTestSuccess loginSuccessModel
+15:01:22.429 INFO  tests.TestBase - The name of starts method is ---->loginSuccessModel
+15:01:22.430 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+15:01:22.438 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+15:01:22.438 INFO  manager.ListenerWD - List suze is --> 1
+15:01:22.438 INFO  manager.ListenerWD - Before find element --> By.xpath: //button[text()='Sign Out']
+15:01:22.445 INFO  manager.ListenerWD - After find element --> By.xpath: //button[text()='Sign Out']
+15:01:22.472 INFO  tests.TestBase - I need logout
+15:01:22.473 INFO  manager.ListenerTNG - OnTestStart loginSuccessModel
+15:01:22.473 INFO  tests.TestBase - Tests start with user model   User(email=innayrchenko77@gmail.com, password=AlisMaksim2!)
+15:01:22.473 INFO  manager.ListenerWD - Before find element --> By.cssSelector: a[href='/login']
+15:01:22.480 INFO  manager.ListenerWD - After find element --> By.cssSelector: a[href='/login']
+15:01:22.506 INFO  manager.ListenerWD - Before find element --> By.name: email
+15:01:22.512 INFO  manager.ListenerWD - After find element --> By.name: email
+15:01:22.592 INFO  manager.ListenerWD - Before find element --> By.name: password
+15:01:22.598 INFO  manager.ListenerWD - After find element --> By.name: password
+15:01:22.671 INFO  manager.ListenerWD - Before find element --> By.cssSelector: [name='login']
+15:01:22.679 INFO  manager.ListenerWD - After find element --> By.cssSelector: [name='login']
+15:01:22.702 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+15:01:23.019 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+15:01:23.019 INFO  manager.ListenerWD - List suze is --> 1
+15:01:23.019 INFO  manager.ListenerTNG - OnTestSuccess loginSuccessModel
+15:01:23.019 INFO  tests.TestBase - The name of starts method is ---->loginSuccessModelFromFile
+15:01:23.019 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+15:01:23.019 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+15:01:23.019 INFO  manager.ListenerWD - List suze is --> 1
+15:01:23.019 INFO  manager.ListenerWD - Before find element --> By.xpath: //button[text()='Sign Out']
+15:01:23.034 INFO  manager.ListenerWD - After find element --> By.xpath: //button[text()='Sign Out']
+15:01:23.062 INFO  tests.TestBase - I need logout
+15:01:23.062 INFO  manager.ListenerTNG - OnTestStart loginSuccessModelFromFile
+15:01:23.062 INFO  tests.TestBase - Tests start with user model   User(email=innayrchenko77@gmail.com, password=AlisMaksim2!)
+15:01:23.063 INFO  manager.ListenerWD - Before find element --> By.cssSelector: a[href='/login']
+15:01:23.071 INFO  manager.ListenerWD - After find element --> By.cssSelector: a[href='/login']
+15:01:23.093 INFO  manager.ListenerWD - Before find element --> By.name: email
+15:01:23.099 INFO  manager.ListenerWD - After find element --> By.name: email
+15:01:23.177 INFO  manager.ListenerWD - Before find element --> By.name: password
+15:01:23.183 INFO  manager.ListenerWD - After find element --> By.name: password
+15:01:23.259 INFO  manager.ListenerWD - Before find element --> By.cssSelector: [name='login']
+15:01:23.265 INFO  manager.ListenerWD - After find element --> By.cssSelector: [name='login']
+15:01:23.287 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+15:01:23.613 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+15:01:23.614 INFO  manager.ListenerWD - List suze is --> 1
+15:01:23.614 INFO  manager.ListenerTNG - OnTestSuccess loginSuccessModelFromFile
+15:01:23.614 INFO  tests.TestBase - The name of starts method is ---->loginSuccessModelFromFile
+15:01:23.614 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+15:01:23.618 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+15:01:23.618 INFO  manager.ListenerWD - List suze is --> 1
+15:01:23.618 INFO  manager.ListenerWD - Before find element --> By.xpath: //button[text()='Sign Out']
+15:01:23.618 INFO  manager.ListenerWD - After find element --> By.xpath: //button[text()='Sign Out']
+15:01:23.657 INFO  tests.TestBase - I need logout
+15:01:23.657 INFO  manager.ListenerTNG - OnTestStart loginSuccessModelFromFile
+15:01:23.658 INFO  tests.TestBase - Tests start with user model   User(email=innayrchenko77@gmail.com, password=AlisMaksim2!)
+15:01:23.658 INFO  manager.ListenerWD - Before find element --> By.cssSelector: a[href='/login']
+15:01:23.665 INFO  manager.ListenerWD - After find element --> By.cssSelector: a[href='/login']
+15:01:23.695 INFO  manager.ListenerWD - Before find element --> By.name: email
+15:01:23.702 INFO  manager.ListenerWD - After find element --> By.name: email
+15:01:23.782 INFO  manager.ListenerWD - Before find element --> By.name: password
+15:01:23.789 INFO  manager.ListenerWD - After find element --> By.name: password
+15:01:23.864 INFO  manager.ListenerWD - Before find element --> By.cssSelector: [name='login']
+15:01:23.872 INFO  manager.ListenerWD - After find element --> By.cssSelector: [name='login']
+15:01:23.894 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+15:01:24.205 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+15:01:24.205 INFO  manager.ListenerWD - List suze is --> 1
+15:01:24.205 INFO  manager.ListenerTNG - OnTestSuccess loginSuccessModelFromFile
+15:01:24.206 INFO  tests.TestBase - The name of starts method is ---->loginSuccessModelFromFile
+15:01:24.206 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+15:01:24.213 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+15:01:24.214 INFO  manager.ListenerWD - List suze is --> 1
+15:01:24.214 INFO  manager.ListenerWD - Before find element --> By.xpath: //button[text()='Sign Out']
+15:01:24.217 INFO  manager.ListenerWD - After find element --> By.xpath: //button[text()='Sign Out']
+15:01:24.247 INFO  tests.TestBase - I need logout
+15:01:24.248 INFO  manager.ListenerTNG - OnTestStart loginSuccessModelFromFile
+15:01:24.248 INFO  tests.TestBase - Tests start with user model   User(email=innayrchenko77@gmail.com, password=AlisMaksim2!)
+15:01:24.248 INFO  manager.ListenerWD - Before find element --> By.cssSelector: a[href='/login']
+15:01:24.256 INFO  manager.ListenerWD - After find element --> By.cssSelector: a[href='/login']
+15:01:24.277 INFO  manager.ListenerWD - Before find element --> By.name: email
+15:01:24.283 INFO  manager.ListenerWD - After find element --> By.name: email
+15:01:24.361 INFO  manager.ListenerWD - Before find element --> By.name: password
+15:01:24.368 INFO  manager.ListenerWD - After find element --> By.name: password
+15:01:24.442 INFO  manager.ListenerWD - Before find element --> By.cssSelector: [name='login']
+15:01:24.449 INFO  manager.ListenerWD - After find element --> By.cssSelector: [name='login']
+15:01:24.473 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+15:01:24.754 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+15:01:24.754 INFO  manager.ListenerWD - List suze is --> 1
+15:01:24.754 INFO  manager.ListenerTNG - OnTestSuccess loginSuccessModelFromFile
+15:01:24.755 INFO  tests.TestBase - The name of starts method is ---->loginSuccessNew
+15:01:24.755 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+15:01:24.763 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+15:01:24.763 INFO  manager.ListenerWD - List suze is --> 1
+15:01:24.763 INFO  manager.ListenerWD - Before find element --> By.xpath: //button[text()='Sign Out']
+15:01:24.771 INFO  manager.ListenerWD - After find element --> By.xpath: //button[text()='Sign Out']
+15:01:24.796 INFO  tests.TestBase - I need logout
+15:01:24.796 INFO  manager.ListenerTNG - OnTestStart loginSuccessNew
+15:01:24.796 INFO  manager.ListenerWD - Before find element --> By.cssSelector: a[href='/login']
+15:01:24.805 INFO  manager.ListenerWD - After find element --> By.cssSelector: a[href='/login']
+15:01:24.830 INFO  manager.ListenerWD - Before find element --> By.name: email
+15:01:24.837 INFO  manager.ListenerWD - After find element --> By.name: email
+15:01:24.920 INFO  manager.ListenerWD - Before find element --> By.name: password
+15:01:24.926 INFO  manager.ListenerWD - After find element --> By.name: password
+15:01:25.003 INFO  manager.ListenerWD - Before find element --> By.cssSelector: [name='login']
+15:01:25.009 INFO  manager.ListenerWD - After find element --> By.cssSelector: [name='login']
+15:01:25.031 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+15:01:25.382 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+15:01:25.382 INFO  manager.ListenerWD - List suze is --> 1
+15:01:25.382 INFO  manager.ListenerTNG - OnTestSuccess loginSuccessNew
+15:01:25.382 INFO  tests.TestBase - The name of starts method is ---->loginSuccessNew
+15:01:25.382 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+15:01:25.397 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+15:01:25.397 INFO  manager.ListenerWD - List suze is --> 1
+15:01:25.397 INFO  manager.ListenerWD - Before find element --> By.xpath: //button[text()='Sign Out']
+15:01:25.397 INFO  manager.ListenerWD - After find element --> By.xpath: //button[text()='Sign Out']
+15:01:25.434 INFO  tests.TestBase - I need logout
+15:01:25.435 INFO  manager.ListenerTNG - OnTestStart loginSuccessNew
+15:01:25.435 INFO  manager.ListenerWD - Before find element --> By.cssSelector: a[href='/login']
+15:01:25.443 INFO  manager.ListenerWD - After find element --> By.cssSelector: a[href='/login']
+15:01:25.467 INFO  manager.ListenerWD - Before find element --> By.name: email
+15:01:25.475 INFO  manager.ListenerWD - After find element --> By.name: email
+15:01:25.556 INFO  manager.ListenerWD - Before find element --> By.name: password
+15:01:25.563 INFO  manager.ListenerWD - After find element --> By.name: password
+15:01:25.639 INFO  manager.ListenerWD - Before find element --> By.cssSelector: [name='login']
+15:01:25.644 INFO  manager.ListenerWD - After find element --> By.cssSelector: [name='login']
+15:01:25.668 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+15:01:25.983 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+15:01:25.983 INFO  manager.ListenerWD - List suze is --> 1
+15:01:25.984 INFO  manager.ListenerTNG - OnTestSuccess loginSuccessNew
+15:01:25.984 INFO  tests.TestBase - The name of starts method is ---->loginUnregisterUser
+15:01:25.984 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+15:01:25.992 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+15:01:25.992 INFO  manager.ListenerWD - List suze is --> 1
+15:01:25.992 INFO  manager.ListenerWD - Before find element --> By.xpath: //button[text()='Sign Out']
+15:01:25.998 INFO  manager.ListenerWD - After find element --> By.xpath: //button[text()='Sign Out']
+15:01:26.024 INFO  tests.TestBase - I need logout
+15:01:26.024 INFO  manager.ListenerTNG - OnTestStart loginUnregisterUser
+15:01:26.024 INFO  manager.ListenerWD - Before find element --> By.cssSelector: a[href='/login']
+15:01:26.032 INFO  manager.ListenerWD - After find element --> By.cssSelector: a[href='/login']
+15:01:26.055 INFO  manager.ListenerWD - Before find element --> By.name: email
+15:01:26.060 INFO  manager.ListenerWD - After find element --> By.name: email
+15:01:26.140 INFO  manager.ListenerWD - Before find element --> By.name: password
+15:01:26.146 INFO  manager.ListenerWD - After find element --> By.name: password
+15:01:26.222 INFO  manager.ListenerWD - Before find element --> By.cssSelector: [name='login']
+15:01:26.228 INFO  manager.ListenerWD - After find element --> By.cssSelector: [name='login']
+15:01:26.256 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+15:01:26.676 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+15:01:26.676 INFO  manager.ListenerWD - List suze is --> 0
+15:01:26.690 INFO  manager.ListenerTNG - OnTestSuccess loginUnregisterUser
+15:01:26.691 INFO  tests.TestBase - The name of starts method is ---->loginWrongEmail
+15:01:26.692 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+15:01:31.731 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+15:01:31.731 INFO  manager.ListenerWD - List suze is --> 0
+15:01:31.731 INFO  manager.ListenerTNG - OnTestStart loginWrongEmail
+15:01:31.731 INFO  manager.ListenerWD - Before find element --> By.cssSelector: a[href='/login']
+15:01:31.731 INFO  manager.ListenerWD - After find element --> By.cssSelector: a[href='/login']
+15:01:31.759 INFO  manager.ListenerWD - Before find element --> By.name: email
+15:01:31.767 INFO  manager.ListenerWD - After find element --> By.name: email
+15:01:31.844 INFO  manager.ListenerWD - Before find element --> By.name: password
+15:01:31.851 INFO  manager.ListenerWD - After find element --> By.name: password
+15:01:31.923 INFO  manager.ListenerWD - Before find element --> By.cssSelector: [name='login']
+15:01:31.930 INFO  manager.ListenerWD - After find element --> By.cssSelector: [name='login']
+15:01:31.951 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+15:01:32.327 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+15:01:32.327 INFO  manager.ListenerWD - List suze is --> 0
+15:01:32.360 INFO  manager.ListenerTNG - OnTestSuccess loginWrongEmail
+15:01:32.361 INFO  tests.TestBase - The name of starts method is ---->loginWrongPassword
+15:01:32.361 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+15:01:37.403 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+15:01:37.403 INFO  manager.ListenerWD - List suze is --> 0
+15:01:37.403 INFO  manager.ListenerTNG - OnTestStart loginWrongPassword
+15:01:37.418 INFO  manager.ListenerWD - Before find element --> By.cssSelector: a[href='/login']
+15:01:37.418 INFO  manager.ListenerWD - After find element --> By.cssSelector: a[href='/login']
+15:01:37.447 INFO  manager.ListenerWD - Before find element --> By.name: email
+15:01:37.454 INFO  manager.ListenerWD - After find element --> By.name: email
+15:01:37.538 INFO  manager.ListenerWD - Before find element --> By.name: password
+15:01:37.545 INFO  manager.ListenerWD - After find element --> By.name: password
+15:01:37.614 INFO  manager.ListenerWD - Before find element --> By.cssSelector: [name='login']
+15:01:37.624 INFO  manager.ListenerWD - After find element --> By.cssSelector: [name='login']
+15:01:37.646 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+15:01:38.042 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+15:01:38.042 INFO  manager.ListenerWD - List suze is --> 0
+15:01:38.071 INFO  manager.ListenerTNG - OnTestSuccess loginWrongPassword
+15:01:38.071 INFO  manager.ListenerTNG - onFinish Nopackage

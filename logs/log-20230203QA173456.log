@@ -1,0 +1,5 @@
+17:34:58.720 INFO  manager.ApplicationManager - All tests star in Chrome Browser
+17:34:59.810 INFO  manager.ApplicationManager - Current Url -->https://telranedu.web.app/home
+17:34:59.895 INFO  tests.TestBase - The name of starts method is ---->loginSuccess
+17:35:04.954 INFO  tests.TestBase - Login with valid data : email: 'innayrchenko77@gmail.com' & password: AlisMaksim2!
+17:35:07.011 INFO  tests.TestBase - Tests success

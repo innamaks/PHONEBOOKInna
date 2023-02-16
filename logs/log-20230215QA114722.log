@@ -1,0 +1,64 @@
+11:47:24.587 INFO  manager.ApplicationManager - All tests star in Chrome Browser
+11:47:26.088 INFO  manager.ApplicationManager - Current Url -->https://telranedu.web.app/home
+11:47:26.092 INFO  manager.ListenerTNG - onStart Gradle test
+11:47:26.114 INFO  tests.TestBase - The name of starts method is ---->loginSuccessModelFromFile
+11:47:26.115 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+11:47:31.126 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+11:47:31.128 INFO  manager.ListenerWD - List suze is --> 0
+11:47:31.139 INFO  manager.ListenerTNG - OnTestStart loginSuccessModelFromFile
+11:47:31.144 INFO  tests.TestBase - Tests start with user model   User(email=innayrchenko77@gmail.com, password=AlisMaksim2!)
+11:47:31.145 INFO  manager.ListenerWD - Before find element --> By.cssSelector: a[href='/login']
+11:47:31.168 INFO  manager.ListenerWD - After find element --> By.cssSelector: a[href='/login']
+11:47:31.212 INFO  manager.ListenerWD - Before find element --> By.name: email
+11:47:31.231 INFO  manager.ListenerWD - After find element --> By.name: email
+11:47:31.331 INFO  manager.ListenerWD - Before find element --> By.name: password
+11:47:31.348 INFO  manager.ListenerWD - After find element --> By.name: password
+11:47:31.427 INFO  manager.ListenerWD - Before find element --> By.cssSelector: [name='login']
+11:47:31.443 INFO  manager.ListenerWD - After find element --> By.cssSelector: [name='login']
+11:47:31.471 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+11:47:32.431 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+11:47:32.432 INFO  manager.ListenerWD - List suze is --> 1
+11:47:32.435 INFO  manager.ListenerTNG - OnTestSuccess loginSuccessModelFromFile
+11:47:32.436 INFO  tests.TestBase - The name of starts method is ---->loginSuccessModelFromFile
+11:47:32.437 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+11:47:32.452 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+11:47:32.452 INFO  manager.ListenerWD - List suze is --> 1
+11:47:32.452 INFO  manager.ListenerWD - Before find element --> By.xpath: //button[text()='Sign Out']
+11:47:32.472 INFO  manager.ListenerWD - After find element --> By.xpath: //button[text()='Sign Out']
+11:47:32.505 INFO  tests.TestBase - I need logout
+11:47:32.505 INFO  manager.ListenerTNG - OnTestStart loginSuccessModelFromFile
+11:47:32.506 INFO  tests.TestBase - Tests start with user model   User(email=innayrchenko77@gmail.com, password=AlisMaksim2!)
+11:47:32.506 INFO  manager.ListenerWD - Before find element --> By.cssSelector: a[href='/login']
+11:47:32.519 INFO  manager.ListenerWD - After find element --> By.cssSelector: a[href='/login']
+11:47:32.548 INFO  manager.ListenerWD - Before find element --> By.name: email
+11:47:32.566 INFO  manager.ListenerWD - After find element --> By.name: email
+11:47:32.664 INFO  manager.ListenerWD - Before find element --> By.name: password
+11:47:32.676 INFO  manager.ListenerWD - After find element --> By.name: password
+11:47:32.762 INFO  manager.ListenerWD - Before find element --> By.cssSelector: [name='login']
+11:47:32.774 INFO  manager.ListenerWD - After find element --> By.cssSelector: [name='login']
+11:47:32.805 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+11:47:33.126 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+11:47:33.126 INFO  manager.ListenerWD - List suze is --> 1
+11:47:33.126 INFO  manager.ListenerTNG - OnTestSuccess loginSuccessModelFromFile
+11:47:33.127 INFO  tests.TestBase - The name of starts method is ---->loginSuccessModelFromFile
+11:47:33.128 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+11:47:33.142 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+11:47:33.142 INFO  manager.ListenerWD - List suze is --> 1
+11:47:33.143 INFO  manager.ListenerWD - Before find element --> By.xpath: //button[text()='Sign Out']
+11:47:33.155 INFO  manager.ListenerWD - After find element --> By.xpath: //button[text()='Sign Out']
+11:47:33.183 INFO  tests.TestBase - I need logout
+11:47:33.183 INFO  manager.ListenerTNG - OnTestStart loginSuccessModelFromFile
+11:47:33.184 INFO  tests.TestBase - Tests start with user model   User(email=innayrchenko77@gmail.com, password=AlisMaksim2!)
+11:47:33.184 INFO  manager.ListenerWD - Before find element --> By.cssSelector: a[href='/login']
+11:47:33.197 INFO  manager.ListenerWD - After find element --> By.cssSelector: a[href='/login']
+11:47:33.224 INFO  manager.ListenerWD - Before find element --> By.name: email
+11:47:33.236 INFO  manager.ListenerWD - After find element --> By.name: email
+11:47:33.333 INFO  manager.ListenerWD - Before find element --> By.name: password
+11:47:33.345 INFO  manager.ListenerWD - After find element --> By.name: password
+11:47:33.427 INFO  manager.ListenerWD - Before find element --> By.cssSelector: [name='login']
+11:47:33.441 INFO  manager.ListenerWD - After find element --> By.cssSelector: [name='login']
+11:47:33.465 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+11:47:33.793 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+11:47:33.794 INFO  manager.ListenerWD - List suze is --> 1
+11:47:33.794 INFO  manager.ListenerTNG - OnTestSuccess loginSuccessModelFromFile
+11:47:33.796 INFO  manager.ListenerTNG - onFinish Gradle test

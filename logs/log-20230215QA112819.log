@@ -1,0 +1,56 @@
+11:28:21.454 INFO  manager.ApplicationManager - All tests star in Chrome Browser
+11:28:23.217 INFO  manager.ApplicationManager - Current Url -->https://telranedu.web.app/home
+11:28:23.248 INFO  tests.TestBase - The name of starts method is ---->addContactSuccess
+11:28:23.251 INFO  manager.ListenerWD - Before find elements --> By.xpath: //button[text()='Sign Out']
+11:28:28.297 INFO  manager.ListenerWD - After find elements --> By.xpath: //button[text()='Sign Out']
+11:28:28.300 INFO  manager.ListenerWD - List suze is --> 0
+11:28:28.302 INFO  manager.ListenerWD - Before find element --> By.cssSelector: a[href='/login']
+11:28:28.328 INFO  manager.ListenerWD - After find element --> By.cssSelector: a[href='/login']
+11:28:28.387 INFO  manager.ListenerWD - Before find element --> By.name: email
+11:28:28.419 INFO  manager.ListenerWD - After find element --> By.name: email
+11:28:28.541 INFO  manager.ListenerWD - Before find element --> By.name: password
+11:28:28.563 INFO  manager.ListenerWD - After find element --> By.name: password
+11:28:28.662 INFO  manager.ListenerWD - Before find element --> By.cssSelector: [name='login']
+11:28:28.681 INFO  manager.ListenerWD - After find element --> By.cssSelector: [name='login']
+11:28:28.738 INFO  manager.ListenerWD - Before find element --> By.cssSelector: a[href='/add']
+11:28:29.693 INFO  manager.ListenerWD - After find element --> By.cssSelector: a[href='/add']
+11:28:30.740 INFO  manager.ListenerWD - Before find element --> By.cssSelector: input[placeholder='Name']
+11:28:30.757 INFO  manager.ListenerWD - After find element --> By.cssSelector: input[placeholder='Name']
+11:28:30.834 INFO  manager.ListenerWD - Before find element --> By.cssSelector: input[placeholder='Last Name']
+11:28:30.850 INFO  manager.ListenerWD - After find element --> By.cssSelector: input[placeholder='Last Name']
+11:28:30.920 INFO  manager.ListenerWD - Before find element --> By.cssSelector: input[placeholder='Phone']
+11:28:30.934 INFO  manager.ListenerWD - After find element --> By.cssSelector: input[placeholder='Phone']
+11:28:31.016 INFO  manager.ListenerWD - Before find element --> By.cssSelector: input[placeholder='email']
+11:28:31.030 INFO  manager.ListenerWD - After find element --> By.cssSelector: input[placeholder='email']
+11:28:31.119 INFO  manager.ListenerWD - Before find element --> By.cssSelector: input[placeholder='Address']
+11:28:31.133 INFO  manager.ListenerWD - After find element --> By.cssSelector: input[placeholder='Address']
+11:28:31.218 INFO  manager.ListenerWD - Before find element --> By.cssSelector: input[placeholder='description']
+11:28:31.236 INFO  manager.ListenerWD - After find element --> By.cssSelector: input[placeholder='description']
+11:28:31.293 INFO  manager.ListenerWD - Before find element --> By.xpath: //b[text()='Save']
+11:28:31.306 INFO  manager.ListenerWD - After find element --> By.xpath: //b[text()='Save']
+11:29:53.383 INFO  manager.ListenerWD - Before find elements --> By.cssSelector: h2
+11:30:02.744 INFO  manager.ListenerWD - After find elements --> By.cssSelector: h2
+11:30:02.745 INFO  manager.ListenerWD - List suze is --> 88
+11:30:21.045 INFO  manager.ListenerWD - Before find elements --> By.cssSelector: h3
+11:30:29.519 INFO  manager.ListenerWD - After find elements --> By.cssSelector: h3
+11:30:29.520 INFO  manager.ListenerWD - List suze is --> 88
+11:31:39.482 INFO  manager.ListenerWD - Before find elements --> By.cssSelector: .contact-item_card__2SOIM
+11:31:39.534 INFO  manager.ListenerWD - 'Tests ends with error'
+11:31:39.535 INFO  manager.ListenerWD - ============================
+11:31:39.536 INFO  manager.ListenerWD - Method method findElements
+11:31:39.536 INFO  manager.ListenerWD - ============================
+11:31:39.537 INFO  manager.ListenerWD - ============================
+11:31:39.542 INFO  manager.ListenerWD - InvocationTargetException getTargetException() org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=109.0.5414.122)
+Build info: version: '4.7.1', revision: 'c6795baf1a3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4c9ff3c384331f46e0c9e643ed71f1b3, findElements {using=css selector, value=.contact-item_card__2SOIM}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.122, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\Saibo\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51628}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51628/devtoo..., se:cdpVersion: 109.0.5414.122, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4c9ff3c384331f46e0c9e643ed71f1b3
+11:31:39.545 INFO  manager.ListenerWD - ============================
+11:31:39.546 INFO  manager.ListenerWD - ============================
+11:31:39.548 INFO  manager.ListenerWD - Object target ChromeDriver: chrome on WINDOWS (4c9ff3c384331f46e0c9e643ed71f1b3)
+11:31:39.549 INFO  manager.ListenerWD - ============================
+11:31:39.552 INFO  manager.ListenerWD - Screen with error is ---> src/test/screenshots/screen - 1613.png

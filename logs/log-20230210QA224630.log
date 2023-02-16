@@ -1,0 +1,8 @@
+22:46:51.629 INFO  manager.ListenerTNG - onStart Gradle test
+22:46:51.681 INFO  manager.ListenerTNG - OnTestStart loginSuccess
+22:46:51.683 INFO  manager.ListenerTNG - OnTestSkipped loginSuccess
+22:46:51.684 INFO  manager.ListenerTNG - OnTestStart loginSuccess
+22:46:51.685 INFO  manager.ListenerTNG - OnTestSkipped loginSuccess
+22:46:51.686 INFO  manager.ListenerTNG - OnTestStart loginSuccess
+22:46:51.687 INFO  manager.ListenerTNG - OnTestSkipped loginSuccess
+22:46:51.691 INFO  manager.ListenerTNG - onFinish Gradle test
